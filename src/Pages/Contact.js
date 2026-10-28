@@ -58,7 +58,7 @@ const ContactPage = () => {
 
             <div className="space-y-6 relative z-10">
               <h2 className="text-2xl sm:text-3xl font-bold tracking-tight leading-snug">
-                Parishisht <br /> Construction (P) Ltd.
+                goldencares <br /> Construction (P) Ltd.
               </h2>
               <p className="text-orange-50 text-sm leading-relaxed border-b border-white/20 pb-6">
                 A trusted name in building and infrastructure. We bring your
@@ -121,10 +121,10 @@ const ContactPage = () => {
                   <div>
                     <h4 className="font-semibold text-white">Email Us</h4>
                     <a
-                      href="mailto:info@parishishtconstruction.com"
+                      href="mailto:info@goldencaresconstruction.com"
                       className="text-orange-100 text-xs hover:text-white underline-offset-2 hover:underline transition block mt-0.5"
                     >
-                      info@parishishtconstruction.com
+                      info@goldencaresconstruction.com
                     </a>
                   </div>
                 </div>

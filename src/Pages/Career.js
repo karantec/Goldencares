@@ -46,7 +46,7 @@ const CareerPage = () => {
             Career Opportunities
           </h2>
           <p className="text-lg opacity-80 mt-2">
-            Join the Parishisht Construction (PCPL) team – Build your future
+            Join the goldencares Construction (PCPL) team – Build your future
             with us
           </p>
         </div>
@@ -215,7 +215,7 @@ const CareerPage = () => {
                     htmlFor="message"
                     className="block font-semibold text-gray-700 mb-1"
                   >
-                    Why do you want to join Parishisht Construction? (Optional)
+                    Why do you want to join goldencares Construction? (Optional)
                   </label>
                   <textarea
                     id="message"

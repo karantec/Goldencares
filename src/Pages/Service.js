@@ -152,7 +152,7 @@ const services = [
 // ─── Testimonials Data (30 items) ──────────────────────────────────────────
 const testimonials = [
   {
-    text: "Parishisht Construction delivered our water supply project on time with outstanding quality. Their professionalism is unmatched.",
+    text: "goldencares Construction delivered our water supply project on time with outstanding quality. Their professionalism is unmatched.",
     name: "Er. R. Kumar",
     role: "PHED Engineer",
   },
@@ -167,7 +167,7 @@ const testimonials = [
     role: "Urban Development Dept.",
   },
   {
-    text: "We have partnered with Parishisht Construction for multiple road projects. Their execution speed and quality are top‑notch.",
+    text: "We have partnered with goldencares Construction for multiple road projects. Their execution speed and quality are top‑notch.",
     name: "Mr. D. Jha",
     role: "Project Manager, NHAI",
   },
@@ -177,7 +177,7 @@ const testimonials = [
     role: "Chief Engineer, PWD",
   },
   {
-    text: "Parishisht Construction handled our electrical and plumbing work with great precision. Highly recommend their MEP services.",
+    text: "goldencares Construction handled our electrical and plumbing work with great precision. Highly recommend their MEP services.",
     name: "Mrs. P. Gupta",
     role: "Real Estate Developer",
   },
@@ -222,7 +222,7 @@ const testimonials = [
     role: "Environmental Analyst",
   },
   {
-    text: "Parishisht Construction managed our complex project with excellent coordination. Their project management is outstanding.",
+    text: "goldencares Construction managed our complex project with excellent coordination. Their project management is outstanding.",
     name: "Ms. R. Shah",
     role: "Program Manager, Government Agency",
   },
@@ -247,7 +247,7 @@ const testimonials = [
     role: "Facility Manager",
   },
   {
-    text: "Parishisht Construction has a great team of architects who listen to our needs and deliver creative designs.",
+    text: "goldencares Construction has a great team of architects who listen to our needs and deliver creative designs.",
     name: "Ms. J. Menon",
     role: "Homeowner",
   },
@@ -297,7 +297,7 @@ const testimonials = [
     role: "Community Leader",
   },
   {
-    text: "Parishisht Construction is our go‑to partner for all construction needs. They never disappoint on quality or deadlines.",
+    text: "goldencares Construction is our go‑to partner for all construction needs. They never disappoint on quality or deadlines.",
     name: "Mr. H. Malhotra",
     role: "Repeat Client",
   },

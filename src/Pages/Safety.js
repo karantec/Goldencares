@@ -71,7 +71,7 @@ const Safety = () => {
             Injuries
           </h1>
           <p className="mt-6 text-base sm:text-lg text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            At <strong>Parishisht Construction (PCPL)</strong>, paramount
+            At <strong>goldencares Construction (PCPL)</strong>, paramount
             importance is given to safety at every juncture, every step of the
             way. We are committed to providing a safe, compliant, and healthy
             workplace across all civil campuses, school sites, and water supply
@@ -181,11 +181,11 @@ const Safety = () => {
               </h2>
               <p className="mt-4 text-slate-300 text-sm sm:text-base leading-relaxed">
                 It is our endeavor as an organisation to ensure that every task,
-                job, or assignment is performed with absolute safety. Parishisht
-                Construction extends its safety systems to all contractors
-                operating on our project sites, and we actively urge our
-                material suppliers to adopt structured safety systems at their
-                production facilities.
+                job, or assignment is performed with absolute safety.
+                goldencares Construction extends its safety systems to all
+                contractors operating on our project sites, and we actively urge
+                our material suppliers to adopt structured safety systems at
+                their production facilities.
               </p>
 
               <ul className="mt-6 space-y-3.5">
@@ -243,7 +243,7 @@ const Safety = () => {
             Build with Uncompromised Safety
           </h2>
           <p className="mt-3 text-orange-100 text-sm sm:text-base max-w-2xl mx-auto">
-            Collaborate with Parishisht Construction for quality civil
+            Collaborate with goldencares Construction for quality civil
             infrastructure executed with zero compromise on safety.
           </p>
           <div className="mt-8 flex justify-center gap-4">

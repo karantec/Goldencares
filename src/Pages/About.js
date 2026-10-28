@@ -41,7 +41,7 @@ export default function AboutUsBody() {
 
         <div className="relative max-w-4xl mx-auto px-4">
           <span className="inline-block px-4 py-1.5 mb-4 text-xs font-semibold uppercase tracking-wider text-[#f15d30] bg-[#f15d30]/10 rounded-full border border-[#f15d30]/20">
-            Parishisht Construction(P) Ltd.
+            goldencares Construction(P) Ltd.
           </span>
           <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight mb-4">
             Building Infrastructure Bihar
@@ -63,13 +63,13 @@ export default function AboutUsBody() {
                 Who We Are
               </span>
               <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
-                Welcome to Parishisht Construction (P) Ltd.
+                Welcome to goldencares Construction (P) Ltd.
               </h2>
 
               <div className="space-y-4 text-slate-600 leading-relaxed text-base">
                 <p>
                   <strong className="text-slate-900 font-semibold">
-                    Parishisht Construction (P) Ltd.
+                    goldencares Construction (P) Ltd.
                   </strong>{" "}
                   is a premier civil construction and infrastructure development
                   company based in Bihar, India. With an uncompromising

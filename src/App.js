@@ -11,11 +11,12 @@ import CareerPage from "./Pages/Career";
 import Home from "./Pages/Home";
 import Safety from "./Pages/Safety";
 import NotFoundPage from "./Pages/NotFoundPage";
+import Homepage from "./Pages/Homepage";
 
 const App = () => {
   const whatsappNumber = "918789970312";
   const defaultMessage = encodeURIComponent(
-    "Hello Parishisht Construction, I would like to inquire about your services.",
+    "Hello goldencares Construction, I would like to inquire about your services.",
   );
 
   return (
@@ -24,13 +25,13 @@ const App = () => {
 
       <div className="flex-1">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<AboutUs />} />
+          <Route path="/" element={<Homepage />} />
+          {/* <Route path="/about" element={<AboutUs />} />
           <Route path="/services" element={<ServicesPage />} />
           <Route path="/projects" element={<ProjectsPage />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/career" element={<CareerPage />} />
-          <Route path="/safety" element={<Safety />} />{" "}
+          <Route path="/safety" element={<Safety />} />{" "} */}
           {/* Placeholder for Safety page */}
           <Route path="*" element={<NotFoundPage />} />
         </Routes>

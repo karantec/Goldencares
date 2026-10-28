@@ -38,7 +38,7 @@ const Team = () => {
             <FaUserTie /> Executive Leadership
           </span>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-3 tracking-tight">
-            Guiding Parishisht Construction
+            Guiding goldencares Construction
           </h2>
           <p className="text-slate-600 text-sm sm:text-base mt-3 leading-relaxed">
             Led by experienced infrastructure visionaries dedicated to
@@ -119,7 +119,7 @@ const Team = () => {
 
               {/* Bottom Quick Contact Bar */}
               <div className="bg-slate-50 px-6 py-3.5 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500 font-medium">
-                <span>Parishisht Construction (P) Ltd.</span>
+                <span>goldencares Construction (P) Ltd.</span>
                 <span className="flex items-center gap-1 text-emerald-600 font-semibold">
                   <FaShieldAlt className="text-emerald-500" /> Authorized
                 </span>
@@ -146,10 +146,10 @@ const Team = () => {
           </div>
 
           <a
-            href="mailto:parishishtconstruction@gmail.com"
+            href="mailto:goldencaresconstruction@gmail.com"
             className="inline-flex items-center gap-2 bg-slate-900 hover:bg-orange-500 text-white font-semibold text-xs uppercase tracking-wider px-5 py-3 rounded-lg shadow transition-all duration-200 hover:-translate-y-0.5"
           >
-            <FaEnvelope /> parishishtconstruction@gmail.com
+            <FaEnvelope /> goldencaresconstruction@gmail.com
           </a>
         </div>
       </div>
